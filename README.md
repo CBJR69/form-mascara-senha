@@ -1,34 +1,48 @@
-# Verificador de Senha
+# 🔒 Verificador de Senha
 
-Este é um projeto de verificador de senha utilizando HTML, CSS (Bootstrap) e JavaScript (jQuery) para analisar a força da senha inserida pelo usuário.
+Bem-vindo ao **Verificador de Senha**! Este projeto foi desenvolvido para ajudar os usuários a criarem senhas mais seguras e resistentes a ataques.
 
-## Tecnologias Utilizadas
-- **HTML5**: Estrutura da página.
-- **CSS3 & Bootstrap 5.3**: Estilização responsiva.
-- **JavaScript & jQuery**: Lógica para verificar a segurança da senha.
+## 🛠️ Tecnologias Utilizadas
 
-## Funcionalidades
-- Indica a força da senha como **Fraca**, **Média** ou **Forte**.
-- Exibe requisitos para uma senha segura:
-  - Mínimo de 8 caracteres.
-  - Mais de 12 caracteres para uma senha forte.
-  - Contém letras maiúsculas e minúsculas.
-  - Contém números e caracteres especiais.
-- Atualiza a cor e status conforme o usuário digita.
+- **HTML5** 🏗️ - Estrutura semântica e organizada.
+- **CSS3 & Bootstrap 5.3** 🎨 - Design responsivo e intuitivo.
+- **JavaScript & jQuery** ⚡ - Análise em tempo real da força da senha.
 
-## Como Utilizar
+## 🔑 Funcionalidades
+
+- Classifica a senha como **Fraca**, **Média** ou **Forte**.
+- Exibe requisitos essenciais para maior segurança:
+  - Pelo menos **8 caracteres**.
+  - **12+ caracteres** para uma senha forte.
+  - Combinação de **maiúsculas e minúsculas**.
+  - Inclusão de **números e caracteres especiais**.
+- Feedback visual dinâmico enquanto o usuário digita.
+
+## 🚀 Como Utilizar
+
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/verificador-senha.git
+   git clone https://github.com/CBJR69/form-mascara-senha.git
    ```
-2. Abra o arquivo `index.html` no navegador.
+2. Abra o arquivo `index.html` no navegador e teste a segurança das suas senhas! 🔐
 
-## Dependências
+## 🌐 Acesso Web
+
+Teste online através do link:
+
+🔗 [Verificador de Senha](https://form-mascarasenha.netlify.app/)
+
+## 📦 Dependências
+
 - [Bootstrap 5.3](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css)
 - [jQuery 3.7.0](https://code.jquery.com/jquery-3.7.0.min.js)
 
-## Autor - GitHub - Escola
-[Renan Morano](https://github.com/CBJR69)
+## 👤 Autor
 
-## Autor - GitHub - Pessoal
-[Renan Morano](https://github.com/rean99)
+Projeto desenvolvido por **Renan Morano**, focado na segurança digital e na experiência do usuário.
+
+🔗 GitHub (Escola): [CBJR69](https://github.com/CBJR69)  
+🔗 GitHub (Pessoal): [rean99](https://github.com/rean99)  
+
+💡 "Senhas seguras protegem suas informações. Crie com responsabilidade!"
+
